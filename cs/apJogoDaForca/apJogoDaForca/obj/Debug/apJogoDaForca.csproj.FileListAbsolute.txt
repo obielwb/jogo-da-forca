@@ -1,0 +1,60 @@
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.exe.config
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.exe
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.pdb
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csprojAssemblyReference.cache
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.FrmJogoDaForca.resources
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.Properties.Resources.resources
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csproj.GenerateResource.cache
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.exe
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.pdb
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.exe.config
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.exe
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.pdb
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csprojAssemblyReference.cache
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.FrmJogoDaForca.resources
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.Properties.Resources.resources
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csproj.GenerateResource.cache
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.exe
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\c#\apJogoDaForca\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.pdb
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\apJogoDaForca\jogo-da-forca\c#\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\apJogoDaForca\jogo-da-forca\c#\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.FrmJogoDaForca.resources
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\apJogoDaForca\jogo-da-forca\c#\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\apJogoDaForca\jogo-da-forca\c#\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\apJogoDaForca\jogo-da-forca\c#\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\apJogoDaForca\jogo-da-forca\c#\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.exe
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\apJogoDaForca\jogo-da-forca\c#\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.pdb
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\apJogoDaForca\jogo-da-forca\c#\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.exe.config
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\apJogoDaForca\jogo-da-forca\c#\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.exe
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\apJogoDaForca\jogo-da-forca\c#\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.pdb
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\jogo-da-forca\cs\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.exe.config
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\jogo-da-forca\cs\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.exe
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\jogo-da-forca\cs\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.pdb
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\jogo-da-forca\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\jogo-da-forca\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.FrmJogoDaForca.resources
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\jogo-da-forca\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\jogo-da-forca\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\jogo-da-forca\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\jogo-da-forca\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.exe
+C:\Users\gabri\OneDrive\Documentos\developer\Cotuca\INI11\1oSemestre\jogo-da-forca\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.pdb
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\jogo-da-forca-main\jogo-da-forca-main\cs\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.exe.config
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\jogo-da-forca-main\jogo-da-forca-main\cs\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.exe
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\jogo-da-forca-main\jogo-da-forca-main\cs\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.pdb
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\jogo-da-forca-main\jogo-da-forca-main\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csprojAssemblyReference.cache
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\jogo-da-forca-main\jogo-da-forca-main\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.FrmJogoDaForca.resources
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\jogo-da-forca-main\jogo-da-forca-main\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.Properties.Resources.resources
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\jogo-da-forca-main\jogo-da-forca-main\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csproj.GenerateResource.cache
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\jogo-da-forca-main\jogo-da-forca-main\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\jogo-da-forca-main\jogo-da-forca-main\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.exe
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\jogo-da-forca-main\jogo-da-forca-main\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.pdb
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\Local\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csprojAssemblyReference.cache
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\Local\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.FrmJogoDaForca.resources
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\Local\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.Properties.Resources.resources
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\Local\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csproj.GenerateResource.cache
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\Local\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\Local\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.exe
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\Local\cs\apJogoDaForca\apJogoDaForca\obj\Debug\apJogoDaForca.pdb
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\Local\cs\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.exe.config
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\Local\cs\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.exe
+C:\Users\barbo\Downloads\João\Estudos\Cotuca\Técnico\1º Semestre\Técnicas de Progamação I\Projeto - III\Local\cs\apJogoDaForca\apJogoDaForca\bin\Debug\apJogoDaForca.pdb
